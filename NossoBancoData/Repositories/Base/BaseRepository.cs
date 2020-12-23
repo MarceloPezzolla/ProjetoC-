@@ -4,7 +4,7 @@ using NossoBancoData.Context;
 
 namespace NossoBancoData.Repositories.Base
 {
-    public class BaseRepository : IDisposible, IBaseRepository<TEntity> where TEntity : class
+    public class BaseRepository : IDisposable, IBaseRepository<TEntity> where TEntity : class
     {
         private readonly DbContext _context;
 

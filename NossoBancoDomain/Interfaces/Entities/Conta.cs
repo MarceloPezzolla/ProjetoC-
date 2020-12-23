@@ -1,3 +1,4 @@
+using System;
 namespace NossoBancoDomain.Interfaces.Entities
 {
     public class Conta

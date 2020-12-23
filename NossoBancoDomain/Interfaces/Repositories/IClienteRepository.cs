@@ -1,3 +1,4 @@
+using System;
 using NossoBancoDomain.Interfaces.Repositories.Base;
 using NossoBancoDomain.Entities;
 

@@ -1,3 +1,4 @@
+using System;
 using NossoBancoDomain.Interfaces.Entities;
 
 namespace NossoBancoDomain.Entities
